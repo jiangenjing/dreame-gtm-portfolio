@@ -40,5 +40,19 @@
     "model": "Circular Ring 2 · 佩戴展示",
     "file": "circular-ring-2.jpg",
     "source": "https://www.circular.xyz/"
+  },
+  {
+    "brand": "Dreame Haptic Ring",
+    "model": "Dreame AI Smart Ring · Haptic",
+    "file": "dreame-haptic-ring.png",
+    "source": "https://www.dreametech.com/blogs/news/technology-that-feels-rather-than-just-tells-dreame-redefines-wearables-at-ces-2026",
+    "sourceMaterial": "Dreame_AI_Smart_Ring_产品手册.pdf"
+  },
+  {
+    "brand": "Dreame Health Ring",
+    "model": "Dreame Glow Ring · 原报告 Health Ring",
+    "file": "dreame-glow-ring.png",
+    "source": "https://www.prnewswire.com/news-releases/dreame-technologys-dreame-next-smart-wearables-smart-ring-comes-under-the-spotlight-302757184.html",
+    "sourceMaterial": "Dreame_Glow_Ring_产品手册.pdf"
   }
 ]
