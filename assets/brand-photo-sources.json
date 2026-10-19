@@ -1,0 +1,44 @@
+[
+  {
+    "brand": "Oura Ring（原报告记录）",
+    "model": "Oura Ring 4",
+    "file": "oura-ring-4.png",
+    "source": "https://ouraring.com/store/rings/oura-ring-4/black"
+  },
+  {
+    "brand": "RingConn（原报告记录）",
+    "model": "RingConn Gen 2",
+    "file": "ringconn-gen-2.png",
+    "source": "https://ringconn.com/products/ringconn-gen-2"
+  },
+  {
+    "brand": "三星 Galaxy Ring",
+    "model": "三星 Galaxy Ring",
+    "file": "galaxy-ring-official.jpg",
+    "source": "https://www.samsung.com/us/rings/galaxy-ring/"
+  },
+  {
+    "brand": "Ultrahuman Ring AIR",
+    "model": "Ultrahuman Ring AIR",
+    "file": "ultrahuman-ring-official.jpg",
+    "source": "https://www.ultrahuman.com/ring/buy/"
+  },
+  {
+    "brand": "Amazfit Helio",
+    "model": "Amazfit Helio Ring",
+    "file": "amazfit-helio-ring.png",
+    "source": "https://www.zepp.com/press-release/zepp-health-announces-us-launch-date-for-amazfit-helio-ring"
+  },
+  {
+    "brand": "Evie Ring",
+    "model": "Evie Ring",
+    "file": "evie-ring.jpg",
+    "source": "https://www.prnewswire.com/news-releases/movano-health-unveils-evie-first-medical-grade-smart-ring-designed-uniquely-for-women-301710396.html"
+  },
+  {
+    "brand": "Circular Ring 2",
+    "model": "Circular Ring 2 · 佩戴展示",
+    "file": "circular-ring-2.jpg",
+    "source": "https://www.circular.xyz/"
+  }
+]
