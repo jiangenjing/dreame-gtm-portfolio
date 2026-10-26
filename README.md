@@ -31,8 +31,8 @@
 
 本次仅对矩阵及相关上下文补充最新公开资料；其他价格、样本数量、定位图和图片仍保留原报告口径。详见 [更新记录与来源](docs/wearable-landscape-20261022.md)。
 
-## 2026-10-27 行业判断补充
+## 2026-10-27 行业判断复核
 
-[直达行业判断](https://jiangenjing.github.io/dreame-gtm-portfolio/#ring-insights)：按市场差异、用户需求、AI价值、竞争格局、Oura商业模式和GTM验证六个维度展开，附20项来源与线索，区分事实、分析和假设。小红书仅有转载检索摘要，未直接核验原帖。
+[直达行业判断](https://jiangenjing.github.io/dreame-gtm-portfolio/#ring-insights)：按市场选择、用户需求、AI价值、当前竞争、付费逻辑和GTM执行六个问题组织。复核版更新IDC预测与RingConn Gen 3，补充Oura服务承接限制，财务与历史口径折叠，来源精简为17项直接资料。
 
-[结构化文字稿与来源](docs/smart-ring-industry-20261027.md)。本次补充研究不回溯计为历史实习成果。
+[结构化文字稿](docs/smart-ring-industry-20261027.md) · [审核与修改记录](docs/smart-ring-review-20261027.md)。本次研究不回溯计为实习成果。旧报告仅校正与当前结论直接冲突的文字，表格与图表未全量重算。
