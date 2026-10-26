@@ -30,3 +30,9 @@
 [直达 AI 可穿戴生态矩阵](https://jiangenjing.github.io/dreame-gtm-portfolio/#wearable-matrix-20261022)：按用户任务重新区分健康戒指、语音戒指、有屏智能手表、健康腕带、AI 耳机，以及音频／摄像／带显示 AI／空间显示眼镜与录音夹扣。附官方来源、能力边界、产品状态和待验证的 GTM 判断。
 
 本次仅对矩阵及相关上下文补充最新公开资料；其他价格、样本数量、定位图和图片仍保留原报告口径。详见 [更新记录与来源](docs/wearable-landscape-20261022.md)。
+
+## 2026-10-27 行业判断补充
+
+[直达行业判断](https://jiangenjing.github.io/dreame-gtm-portfolio/#ring-insights)：按市场差异、用户需求、AI价值、竞争格局、Oura商业模式和GTM验证六个维度展开，附20项来源与线索，区分事实、分析和假设。小红书仅有转载检索摘要，未直接核验原帖。
+
+[结构化文字稿与来源](docs/smart-ring-industry-20261027.md)。本次补充研究不回溯计为历史实习成果。
